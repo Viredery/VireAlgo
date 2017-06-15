@@ -18,7 +18,7 @@ class Pocket:
 
     attributes
     ----------
-    coef_ : array, shape = [1, n_features]
+    coef_ : array, shape = [n_features]
         Weights assigned to the features.
 
     intercept_ :  array, shape = [1]
